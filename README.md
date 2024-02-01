@@ -1,5 +1,8 @@
 ![GitHub Logo](/bw-assets/bw-logo.png)
 
+## Note about this Fork:
+This fork is primarily for changing some of the bot chat messages, cleaning them up a bit.
+
 # IW4 Bot Warfare
 Bot Warfare is a GSC mod for [IW4x](https://alterware.dev/).
 
